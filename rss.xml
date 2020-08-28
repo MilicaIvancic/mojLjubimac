@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style2.css" ?>
+ <rss version="2.0">
+  <channel>
+    <item> 
+	  <title> Pas kao najbolji prijatelj vaše bebe. </title>
+	  <description> Pogledajte zašto prvi prijatelj vašeg deteta treba da bude pas.</description>
+	  <link>http://mojljubimac.000webhostapp.com/pasidete.html</link>
+    </item>
+	
+	<item>
+	  <title> Mali ljubimci </title>
+	  <description> Pročitajte zanimljivosti o najslađim malim ljubimcima. </description>
+	  <link>http://mojljubimac.000webhostapp.com/maliljubimci.html </link>
+	</item>
+	
+	<item>
+	  <title> Galerija </title>
+	  <description> Pogledajte neke od najslađih slika ljubimaca. </description>
+	  <link>http://mojljubimac.000webhostapp.com/galerija1.html </link>
+	</item>
+	
+ </channel>
+ </rss>

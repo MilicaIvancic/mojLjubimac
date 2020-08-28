@@ -1,0 +1,148 @@
+*{border: 0px solid #000000; margin:0 ; padding:0px;}
+#omot{width:1000px; margin:0 auto; }
+#logo{width:1000px; height:300px; background-image:url(slike/2.jpg); border: 1px solid #cce6ff;}
+#naslov h1{font-size:35px; font-family:Snap ITC, Forte, Cooper Black; padding-top:15px; padding-left:25px; }
+#naslov {width:450px; float:left; }
+#linkovi{width:520px; height:30px;  Float:right; margin-top:35px; font-size:16px; text-shadow:3px 3px 3px #cce6ff; padding-right:10px; }
+#linkovi li a:hover{border-bottom:1px solid #33d6ff; border-top:1px solid #33d6ff; }
+#rss{height:60px; width:500px; float:right;}
+#rss a img{ margin-left:380px; margin-top:10px; }
+#rss a img:hover{width:45px;}
+#trazi{float:right; width:200px; height:50px; margin-right:15px; margin-top:10px;}
+#logovanje2{width:450px; float:left; text-align:left; height:70px; margin-top:5px; font-size:16px; padding-left:15px;}
+.polje101{border:1px solid #007a99; width:120px;}
+.polje110{border:1px solid #007a99; width:70px; margin-top:2px; background:#007a99; color:white;}
+#polje1100{margin-left:38px;}
+#meni{width:1002px; height:40px; background:#e6f1ff; padding-top:20px;text-shadow:3px 3px 3px #cce6ff; }
+#meni li a:hover{border-bottom:1px solid #0000ff; border-top:1px solid #0000ff;}
+#sredina{width:1000px; margin:0 auto;}
+#kolona1{width:495px; float:left; }
+.vesti1{width:475px; float:left; margin-left: 10px; }
+.vesti1 h2{margin-left:10px; font-size:16px;  }
+#kolona2{width:500px; float:right; }
+.vesti2{width:480px; float:right; text-align:right; margin-right: 10px; }
+.vesti2 h2 {margin-right:10px; font-size:16px;}
+.cleaner{clear: both;}
+#futer {width:100%; height:65px; background:#e6f1ff; margin-top:10px; }
+#futer ul li {display:inline; margin-right:5px;}
+#futer ul {padding-top:17px; font-size:12px; }
+#futer ul  {text-align:center; }
+#futer li a:hover{border-bottom:1px solid #007a99; color:blue; }
+#futer p{ padding-top:8px; padding-bottom:10px; font-size:12px; text-align: center;}
+#futer p a:hover{border-bottom:1px solid #007a99; color:blue; }
+
+body{background:url(slike/122.jpg); font-family: Ariel, Helvetica; font-size: 14px; color:#007a99; }
+ul {list-style: none;  }
+a { text-decoration: none; color:#007a99; }
+#linkovi ul li  {  display:inline; margin-right:10px ; }
+#linkovi ul  {text-align:right; }
+#meni ul li {display:inline; margin-right:70px ; font-size:16px; }
+#meni ul  {text-align:center; }
+/* ovo se odnosi na deo index stranice koji se ponavlja u svakoj sledecoj stranici */
+
+#sredina1{width:1000px; margin:0 auto; background:}
+#sredina1 h1 {margin:15px 0 15px;  text-shadow:3px 3px 3px #cce6ff; }
+#sredina1 img{ margin:5px 0 7px 4px; border: 1px solid #cce6ff; height:340px; width:320px; }
+#glas{margin-left:500px; margin-top:8px; font-size: 16px; color:#007a99; width:100px; height:28px; Font-size:20px;}
+.radio1 { margin-left:20px; font-size:16px;}
+
+/* ovo se odnosi na izbor ljubimca koji ima najbolji kostim */
+
+#logovanje{width:700px; height:540px; margin:5px auto 10px; background:#e6f1ff; border: 2px solid #cce6ff; }
+#logovanje table{margin: 40px auto; }
+.polje3{margin-bottom:15px; width:350px;  margin-left:-10px; height:25px;}
+#logovanje td {font-size:16px; }
+#polje6{width:180px; height:30px; background:#007a99; color:white; margin-left:70px;font-size:16px;  }
+.radio_polja{ margin-left:40px; margin-bottom:15px;}
+/* ovo se odnosi na stranicu namenjenu logovanju */
+
+#sredina2, #sredina4{width:1000px; margin:5px auto; background:white; border: 1px solid #cce6ff;}
+#slika5, #sredina4{width:1000px; margin:5px auto;}
+#slika5 img{margin:10px 0px 10px 60px; }
+#sredina4 img {margin:10px 10px;} 
+#slika5 h1, #sredina4 h1 {padding-top:10px; text-align:center; }
+#text5, #text4{ width:1000px; margin:10px auto; word-wrap:break-word, normal;}
+#text5 p, #text4 p{margin:5px 15px 10px 15px;}
+#text5 h4, #text4 h4{margin-left:20px;}
+#slika11 {margin-left:24px;}
+#text5 img{height:230px; margin-bottom:10px;}
+#text4 img{width:450px; margin-left:30px;}
+/* ovo se odnosi na stranice pasi , mačke */
+
+#sredina3{ width:1000px; margin:10px auto; background:white; border: 1px solid #cce6ff; word-wrap:break-word, normal;}
+#sredina3 h1{ margin:20px; text-align:center;}
+#hrcak111{width:600px; height:240px; margin:15px 150px;}
+#sredina3 h4{margin-left:20px;}
+#sredina3 p{margin:5px 15px 10px 15px;}
+#hrcak22{margin-left:40px;}
+.hrcak{height:230px; margin:10px;}
+
+
+/* ovo se odnosi na stranicu zanimljivosti o hrčcima */
+ 
+#sredina6{width:1000px; margin:4px auto; background:white; border: 1px solid #cce6ff;}
+#sredina6 h1{padding:15px;}
+#kolona6{width:500px; float:left; }
+.leva_kolona1{width:490px; margin:10px; float:left;}
+.leva_kolona1 h2{text-align:center; margin-top:10px; margin-bottom:10px;}
+.text6 {word-wrap:break-word, normal; margin-left:10px; margin-top:10px; word-spacing:0.5px; }
+.text6:first-letter{font-size:18px; font-family:Algerian;}
+#kolona7{width:500px; float:right;}
+.desna_kolona1{width:470px; margin-top:20px; margin-right:10px; margin-left:20px; float:right; padding-bottom:10px;}
+.desna_kolona1 h2{text-align:center; margin-bottom:15px; }
+.text7{word-wrap:break-word, normal; margin-right:10px; margin-top:10px; word-spacing:0.5px;}
+.text7:first-letter{font-size:18px; font-family:Algerian;}
+
+/* ovo se odnosi na stranicu mali ljubimci */
+
+#sredina7{width:1000px; margin:4px auto; background:white; border: 1px solid #cce6ff;}
+#kolona9{width:480px; float:left;margin:10px; }
+#kolona10{width:480px; float:right;margin:10px;}
+#kolona9 p{word-wrap:break-word, normal; margin-left:10px; margin-top:10px; word-spacing:0.5px; }
+#kolona10 p{word-wrap:break-word, normal; margin-right:10px; margin-top:10px; word-spacing:0.5px; }
+#kolona10 p:first-letter{font-size:18px; font-family:Algerian;}
+#kolona9 p:first-letter{font-size:18px; font-family:Algerian;}
+#kolona9 h3{margin-bottom:10px; text-align:center;}
+#kolona10 h3{margin-bottom:10px; text-align:center;}
+/*ovo se odnosi na stranicu egzotični ljubimci */
+
+#galerija1{ width:1000px; margin:4px auto; background:white; border: 1px solid #cce6ff;}
+#galerija1 img{ width:319px; height:250px; margin:5px;}
+#galerija1 img:hover{ width:330px; height:290px; border: 2px solid #4da6ff; margin:0 auto; }
+/*ovo se odnosi na galeriju*/
+
+#sredina9{width:1000px; margin:4px auto; background:white; border: 1px solid #cce6ff;}
+#leva_kolona9{width:530px; float:left; margin:10px 0 10px 10px;}
+#desna_kolona9{ width:430px; float:right; margin:20px 15px 10px ;}
+#desna_kolona9 h2{text-align:center; margin-bottom:10px;}
+#desna_kolona9 p{word-wrap:break-word, normal; margin-bottom:10px; }
+#desna_kolona9 p:first-letter{font-size:18px; font-family:Algerian;}
+#desna_kolona9 img{margin-bottom:10px;}
+/*ovo se odnosi na stranicu pas i mačka mogu biti najbolji prijatelji*/
+
+#sredina10{width:1000px; margin:4px auto; background:white; border: 1px solid #cce6ff;}
+#sredina10 h1{text-align:center; margin-bottom:15px; margin-top:15px;}
+#leva_kolona10{width:500px; float:left; margin:10px 0 10px 10px;}
+#leva_kolona10 img{margin-bottom:10px; }
+#leva_kolona10 p{word-wrap:break-word, normal; padding-right:15px; margin-bottom:10px; width:470px; }
+#desna_kolona10{ width:460px; float:right; margin:20px 15px 10px ;}
+#desna_kolona10 p{word-wrap:break-word, normal; padding-right:8px; margin-bottom:10px; margin-top:7px; width:443px; }
+#podnaslov1{width:1000px; margin-top:10px;}
+#podnaslov1 h2{text-align:center; margin-bottom:15px; text-shadow:5px 5px 5px #cce6ff;  }
+/* Ovo se odnosi na stranicu pas može biti najbolji prijatelj vašeg deteta */
+
+#autor1{width:800px; margin:4px auto; background:white; border: 1px solid #cce6ff;}
+#autor_slika{width:390px; float:left; margin:10px 0 10px 10px;}
+#autor_slika img{ margin:10px ;}
+
+#autor_podaci{ width:400px; float:right; }
+#autor_podaci h1{margin-top:20px; text-align:center;}
+#autor_podaci p{margin-top:20px; width:350px; word-spacing:0.5px; margin-left:20px; }
+#autor_podaci a { padding:10px; background:#007a99; color:white; }
+#autor_podaci h3 { margin-top:60px; margin-left:130px;}
+#autor_podaci a:hover{ color:#007a99; background:#cce6ff; }
+
+
+
+
+
